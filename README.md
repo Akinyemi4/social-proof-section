@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://github.com/Akinyemi4/social-proof-section)
 - Live Site URL: [Live Site URL](https://social-proof-section-master-akinyemi.netlify.app/)
 
 ### Built with
